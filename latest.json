@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "notes": "首个 Windows 玩家试玩版。",
+  "version": "0.2.0",
+  "notes": "新增生计、宗门人物、游历寻机与修士成长，完善自动战斗、小窗和拍卖体验。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest"
 }
