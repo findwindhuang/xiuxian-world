@@ -1,5 +1,8 @@
 {
-  "version": "0.3.0",
-  "notes": "新增修士寿元与疗伤途径，完善手动和自动竞拍及离线结算。",
-  "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest"
+  "version": "0.3.1",
+  "notes": "新增游戏内一键更新，自动下载、保存进度并重启。",
+  "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.3.1/xiuxian-world-setup-v0.3.1.exe",
+  "installer_sha256": "ecff01c2f39ef3ddaadfc7b5ef1cef7af2ba786209767caf3906186d53e01e80",
+  "installer_size": 39609856
 }
