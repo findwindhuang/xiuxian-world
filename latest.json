@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1",
-  "notes": "新增游戏内一键更新，自动下载、保存进度并重启。",
+  "version": "0.3.2",
+  "notes": "更新成功后安全清理旧版，保留上一版和存档。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.3.1/xiuxian-world-setup-v0.3.1.exe",
-  "installer_sha256": "ecff01c2f39ef3ddaadfc7b5ef1cef7af2ba786209767caf3906186d53e01e80",
-  "installer_size": 39609856
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.3.2/xiuxian-world-setup-v0.3.2.exe",
+  "installer_sha256": "daf9d793b4a2ce4031c06f5370316d49a5b794267e57fe521bc65458652381a8",
+  "installer_size": 39634944
 }
