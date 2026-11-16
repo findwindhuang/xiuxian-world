@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "notes": "新增生计、宗门人物、游历寻机与修士成长，完善自动战斗、小窗和拍卖体验。",
+  "version": "0.3.0",
+  "notes": "新增修士寿元与疗伤途径，完善手动和自动竞拍及离线结算。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest"
 }
