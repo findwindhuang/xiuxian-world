@@ -1,0 +1,10 @@
+{
+  "macos": {
+    "notes": "Mac 预发布测试：自动更新与回退，使用独立测试存档。",
+    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.3.4/xiuxian-world-macos-v0.3.4.zip",
+    "sha256": "855715e6b06d2badf866553cc5619165beadbedae3bcd60ac99158714c1c253e",
+    "version": "0.3.4",
+    "size": 61188838,
+    "save_version": 20
+  }
+}
