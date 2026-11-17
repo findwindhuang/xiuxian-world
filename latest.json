@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "notes": "新增天地时代、丹药炼制与丹纹品质，优化行囊和坊市。",
+  "version": "0.5.0",
+  "notes": "增加灵药种植和宗门丹房，优化主界面、行囊和小窗。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.4.0/xiuxian-world-setup-v0.4.0.exe",
-  "installer_sha256": "150ea5239863d13c46facba2081a5699fee117d56234814e66cea8177fc41408",
-  "installer_size": 39735296
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.5.0/xiuxian-world-setup-v0.5.0.exe",
+  "installer_sha256": "ab60fdc993cdf08dfb8fa589d1abe7ec63fa119e112ef53a6b80883cb42c730c",
+  "installer_size": 39774208
 }
