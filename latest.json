@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0",
-  "notes": "增加灵药种植和宗门丹房，优化主界面、行囊和小窗。",
+  "version": "0.6.0",
+  "notes": "灵石分为下中上品，重做各境界收入与物价；新增青溪渡旧药田、修行纪事和宗门传承，更新沿用存档。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.5.0/xiuxian-world-setup-v0.5.0.exe",
-  "installer_sha256": "ab60fdc993cdf08dfb8fa589d1abe7ec63fa119e112ef53a6b80883cb42c730c",
-  "installer_size": 39774208
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.6.0/xiuxian-world-setup-v0.6.0.exe",
+  "installer_sha256": "5d37f4b0416d5749e34de6675715ccea1552b16f053519f5ab6f2dd5646bdfe3",
+  "installer_size": 39822336
 }

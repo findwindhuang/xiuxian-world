@@ -1,10 +1,10 @@
 {
   "macos": {
-    "version": "0.5.0",
-    "notes": "Mac 预发布测试：灵药种植、宗门丹房和界面优化；保留原测试存档。升级后回退暂时停用。",
-    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.5.0/xiuxian-world-macos-v0.5.0.zip",
-    "sha256": "c99c9ff398aeeab2c75f872532abd579ea481462af8d08415e3420afd24b4db0",
-    "size": 61274319,
-    "save_version": 25
+    "version": "0.6.0",
+    "notes": "加入三档灵石、青溪渡与宗门传承。沿用 Mac 测试存档，旧版不兼容时会阻止回退。",
+    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.6.0/xiuxian-world-macos-v0.6.0.zip",
+    "sha256": "7a3e0ee5433f172aa5f5a3396d14ca07496089b031d0e05d5295938a3b73ae47",
+    "size": 61323076,
+    "save_version": 28
   }
 }
