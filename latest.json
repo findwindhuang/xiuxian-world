@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "notes": "灵石分为下中上品，重做各境界收入与物价；新增青溪渡旧药田、修行纪事和宗门传承，更新沿用存档。",
+  "version": "0.7.0",
+  "notes": "新增半圣、大圣、宗门传功和前期备丹，调整高阶委托和宗门收入。升级保留存档。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.6.0/xiuxian-world-setup-v0.6.0.exe",
-  "installer_sha256": "5d37f4b0416d5749e34de6675715ccea1552b16f053519f5ab6f2dd5646bdfe3",
-  "installer_size": 39822336
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.7.0/xiuxian-world-setup-v0.7.0.exe",
+  "installer_sha256": "c708b7f06c1aa0b87ca189a29dfab52be5a6b5238ea03a102e63323479d578db",
+  "installer_size": 39828992
 }
