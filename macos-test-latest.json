@@ -1,10 +1,10 @@
 {
   "macos": {
-    "version": "0.7.0",
-    "notes": "新增半圣、大圣、传功、备丹和收入调整。沿用 Mac 测试存档，旧版不兼容时阻止回退。",
-    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.7.0/xiuxian-world-macos-v0.7.0.zip",
-    "sha256": "d0eb3c9305966241491cc68bf1793ad1b395735f9809a3831230890ff0e92f07",
-    "size": 61328677,
-    "save_version": 29
+    "version": "0.8.0",
+    "notes": "新增境界沉淀、灵石分品、商会求购和丹师委托，优化聚灵阵与小窗。保留 Mac 测试存档。",
+    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.8.0/xiuxian-world-macos-v0.8.0.zip",
+    "sha256": "e54e638bde1f2517af13e7508ead066de778140c2dea8920cdb485ee1347945d",
+    "size": 61386388,
+    "save_version": 32
   }
 }

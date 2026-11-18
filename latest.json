@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "notes": "新增半圣、大圣、宗门传功和前期备丹，调整高阶委托和宗门收入。升级保留存档。",
+  "version": "0.8.0",
+  "notes": "新增自动见闻、聚灵阵与境界沉淀。商会可求购、丹师可受托炼丹，灵石分品收付。调整轮回条件，小窗可拖动边角。升级保留原有进度。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.7.0/xiuxian-world-setup-v0.7.0.exe",
-  "installer_sha256": "c708b7f06c1aa0b87ca189a29dfab52be5a6b5238ea03a102e63323479d578db",
-  "installer_size": 39828992
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.8.0/xiuxian-world-setup-v0.8.0.exe",
+  "installer_sha256": "1deed92ad2539c550c0dfcafc0fb02e29c3d243628b553e2db2818150af7becc",
+  "installer_size": 39885824
 }
