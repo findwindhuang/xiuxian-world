@@ -1,8 +1,12 @@
 {
-  "version": "0.9.0",
-  "notes": "新增宗门品级、宗库供养、平均分工与一键借阵培养。游历新增特殊事件自动处理，拍卖支持逐件自动跟价与最后五秒守价。沿用旧档。",
+  "version": "0.9.1",
+  "notes": "优化新宗门的外务分工、弟子供养和灵石周转。游戏开始验证官方更新清单的数字签名。升级保留现有进度。",
   "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/latest",
-  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.9.0/xiuxian-world-setup-v0.9.0.exe",
-  "installer_sha256": "b872e7259a380422ed0a3a7a87c3a1a439d2e0aaadf961406686f417d6196c1a",
-  "installer_size": 39897088
+  "installer_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/v0.9.1/xiuxian-world-setup-v0.9.1.exe",
+  "installer_sha256": "b3939d6dd1f7a3e1edbdc180b2a1e24a7584851c66efbc54e3c8ddb56c450e38",
+  "installer_size": 39909536,
+  "auth": {
+    "payload": "eyJjb250ZXh0IjoieGl1eGlhbi13b3JsZC91cGRhdGUvdjEiLCJjaGFubmVsIjoid2luZG93cy1zdGFibGUiLCJtYW5pZmVzdCI6eyJ2ZXJzaW9uIjoiMC45LjEiLCJub3RlcyI6IuS8mOWMluaWsOWul+mXqOeahOWkluWKoeWIhuW3peOAgeW8n+WtkOS+m+WFu+WSjOeBteefs+WRqOi9rOOAgua4uOaIj+W8gOWni+mqjOivgeWumOaWueabtOaWsOa4heWNleeahOaVsOWtl+etvuWQjeOAguWNh+e6p+S/neeVmeeOsOaciei/m+W6puOAgiIsImRvd25sb2FkX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvbGF0ZXN0IiwiaW5zdGFsbGVyX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvZG93bmxvYWQvdjAuOS4xL3hpdXhpYW4td29ybGQtc2V0dXAtdjAuOS4xLmV4ZSIsImluc3RhbGxlcl9zaGEyNTYiOiJiMzkzOWQ2ZGQxZjdhM2UxZWRiZGMxODBiMmExZTI0YTc1ODQ4NTFjNjZlZmJjNTRlM2M4ZGRiNTZjNDUwZTM4IiwiaW5zdGFsbGVyX3NpemUiOjM5OTA5NTM2fX0=",
+    "signature": "QpKwmsneLm8y3KdsOoP9Kmt67kvZsfXQa6f1wdxTqNY36Gg1BK/uCCLR5M02gGCvH1Sbf+lPTin6fADw/r6yYMnVEJ0qPuB0mP8G4AUwGpDiGGABb2jBjV19JPchAC1zSVuUBxFEvwc7sZrWT2oOk3BDobfrjdXYS2TWq4KFCBzif1X3noAq9L4jvLpU8GobqYYzzydKRJBuYgup9e6s74182Ag3ylQxsyuKFbfttkVpM9LPfsiZ1tzDwj/IYL20YOCn/4pAJOaoDQHFPhdHKTqb9F4AktdBnrfIQho7Ys+RsMeTjdamNHylqeotUliO0sBRRDwmCrDZs4QJkC1Vpk91LZCSfbR/qgphbPOpXd6Nz/2Yi29DhxqmfvWM9GeE7r8RE8kOTP3BOXLsN3/vNv8w2r2xtFzcXN9BiFSrFumDkVHFO0LOWoyeV3ItnUvweBEavQaoG+i61liRgeYpufC9ooCTIYs5LbvgnVE2iGQVgnSq9rB8osgbGt0mBiqA"
+  }
 }
