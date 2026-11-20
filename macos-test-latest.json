@@ -1,14 +1,14 @@
 {
   "macos": {
-    "version": "0.10.0",
-    "notes": "新增飞升台、宗库炼石、护宗大阵与灵脉争夺。山门可扩建九级，门人能任长老、领取资粮并记录个人大事。更新时自动备份并保留现有角色。",
-    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.10.0/xiuxian-world-macos-v0.10.0.zip",
-    "sha256": "0a26968d0f05acf3971628629fe68d4a44c60fa8d88ebd3125ca8292d9c41d2e",
-    "size": 61452754,
-    "save_version": 36
+    "version": "0.11.0",
+    "notes": "宗门可批量招募职役、派队采买并配置弟子护送。商路会遭遇劫道与失脉宗门的报复。炼石坊提速并可催炉，重要纪事新增宗门与突破分类。已有角色更新时自动备份存档。",
+    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.11.0/xiuxian-world-macos-v0.11.0.zip",
+    "sha256": "4c673d770062a4836535dce4ce26695e25867d43f385ef0a289a0ab8f3904fff",
+    "size": 61482373,
+    "save_version": 38
   },
   "auth": {
-    "payload": "eyJjb250ZXh0IjoieGl1eGlhbi13b3JsZC91cGRhdGUvdjEiLCJjaGFubmVsIjoibWFjb3MtdGVzdCIsIm1hbmlmZXN0Ijp7Im1hY29zIjp7InZlcnNpb24iOiIwLjEwLjAiLCJub3RlcyI6IuaWsOWinumjnuWNh+WPsOOAgeWul+W6k+eCvOefs+OAgeaKpOWul+Wkp+mYteS4jueBteiEieS6ieWkuuOAguWxsemXqOWPr+aJqeW7uuS5nee6p++8jOmXqOS6uuiDveS7u+mVv+iAgeOAgemihuWPlui1hOeyruW5tuiusOW9leS4quS6uuWkp+S6i+OAguabtOaWsOaXtuiHquWKqOWkh+S7veW5tuS/neeVmeeOsOacieinkuiJsuOAgiIsImRvd25sb2FkX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvZG93bmxvYWQvbWFjb3MtdGVzdC12MC4xMC4wL3hpdXhpYW4td29ybGQtbWFjb3MtdjAuMTAuMC56aXAiLCJzaGEyNTYiOiIwYTI2OTY4ZDBmMDVhY2YzOTcxNjI4NjI5ZmU2OGQ0YTQ0YzYwZmE4ZDg4ZWJkMzEyNWNhODI5MmQ5YzQxZDJlIiwic2l6ZSI6NjE0NTI3NTQsInNhdmVfdmVyc2lvbiI6MzZ9fX0=",
-    "signature": "CpI33xIB25/nVSrQaaN0ICRNKYvfWOUMWGrfRagYpd+Tn7nw5B/vuQV1IhVKMj9Knccp/xghakmIx0w3tB7R1DY2mAmHtuAxLIByqTp59QQSTEzE9M9Rtd7gfb8MkvQChb1im9gHQmeMfgbHmUDRO7edqby3dgvsSXkIDTPV8roCMnDj6QC42w8FRpbjs6PBjgZgXCW5oSI/QQ2X8PT6Xm86l0UjaJI4Jfw9iR8w3MjCPsxd5GFPSUtA2NGwZo7lQROxBA03wEPFb6s9mwW6eSMzTdIn3jMq5liNEkN2gYZvGW5vqNH7eApOXZZcMWEn0AwUeOa8WPtsZGR/vzwGXN0H5dh6bnCHh3e5K+QJkkE01SDEaMkOeab22y/p6mywJCIY2UyNX0XCREjGjmIYLmCISiASzjSra5Haof4i+f3cZ3OGV0gTivwyjMkevDgZ0BnQyMKMIPr9hFpRpXz+8sV5+tCMn8owOlEh8r5vmbT1WKPuNVylJxMQkl/h93cf"
+    "payload": "eyJjb250ZXh0IjoieGl1eGlhbi13b3JsZC91cGRhdGUvdjEiLCJjaGFubmVsIjoibWFjb3MtdGVzdCIsIm1hbmlmZXN0Ijp7Im1hY29zIjp7InZlcnNpb24iOiIwLjExLjAiLCJub3RlcyI6IuWul+mXqOWPr+aJuemHj+aLm+WLn+iBjOW9ueOAgea0vumYn+mHh+S5sOW5tumFjee9ruW8n+WtkOaKpOmAgeOAguWVhui3r+S8mumBremBh+WKq+mBk+S4juWkseiEieWul+mXqOeahOaKpeWkjeOAgueCvOefs+WdiuaPkOmAn+W5tuWPr+WCrOeCie+8jOmHjeimgee6quS6i+aWsOWinuWul+mXqOS4jueqgeegtOWIhuexu+OAguW3suacieinkuiJsuabtOaWsOaXtuiHquWKqOWkh+S7veWtmOaho+OAgiIsImRvd25sb2FkX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvZG93bmxvYWQvbWFjb3MtdGVzdC12MC4xMS4wL3hpdXhpYW4td29ybGQtbWFjb3MtdjAuMTEuMC56aXAiLCJzaGEyNTYiOiI0YzY3M2Q3NzAwNjJhNDgzNjUzNWRjZTRjZTI2Njk1ZTI1ODY3ZDQzZjM4NWVmMGEyODlhMGFiOGYzOTA0ZmZmIiwic2l6ZSI6NjE0ODIzNzMsInNhdmVfdmVyc2lvbiI6Mzh9fX0=",
+    "signature": "ntMxMcog28359V81GWUxnH+92qbMQCFtMFQBfxaYB2KROyBCVKdSjfklCfNW9g6lmYAixgvCVWqwxc6nG8cJJJCC5doCMsjNhoGTe8fJgThjTX1k2XDhorvbBnD3JSzd79+OvTGfUUFZx5XY7Z88Jc2l1s6TNH1zF1lY9nFS0Kee8UL/PgatOr72aSYuLRwlFZil0zhzPQ4hPvpElt+DhqnUUOBMWvBjbdLCozhupgIk604KFhIMjShlQuyj2yW9xT9zeHlO9sK8tnB0n6TQjLvqPsq8azUFQp71yaznF3FjyuADbvZphsRUDYI6ge4dl8m8Cb1A/zndGgc+D+I8W5aZrJoattH+4bqckaEHNT6D34URSKQQrFtH8Rz4NauT0TkzX0K96gYrhGEJYprs/v/fuT6WQLQBMpiym6zMoX7UR881TRR7/KDINsVV++B4i4TebU1IkX1G3R8lHmmsSCtDE2jh1wfVq7S19Zwx8vLIuvpfgxSQUV6uapHdIgfp"
   }
 }
