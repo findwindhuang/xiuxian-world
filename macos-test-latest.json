@@ -1,14 +1,14 @@
 {
   "macos": {
-    "version": "0.13.0",
-    "notes": "宗门品级按实控疆域、门人战力和坐镇境界评定。新增可开拓与接管的据点，长老议事和营造司采用多列卡片，代管开启后稳定常亮。更新保留已有角色、宗产与建设权限。",
-    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.13.0/xiuxian-world-macos-v0.13.0.zip",
-    "sha256": "3804189ab8d88fb77745f6b3b96199575b07f13081d92bfb19398f44b662da6e",
-    "size": 61513557,
-    "save_version": 41
+    "version": "0.14.0",
+    "notes": "新增十种丹药与丹方，药效随境界和丹纹变化。一键游历自动踏查、采集、寻机缘与访医。竹林驿可修桥，药车按商路到货。更新保留角色与原有进度。",
+    "download_url": "https://github.com/findwindhuang/xiuxian-world/releases/download/macos-test-v0.14.0/xiuxian-world-macos-v0.14.0.zip",
+    "sha256": "0c82ad4475b9ebe3f98f1c39f5a1c6f7b3a94c4fe7802c16db28d9cd5dcc3758",
+    "size": 61543759,
+    "save_version": 43
   },
   "auth": {
-    "payload": "eyJjb250ZXh0IjoieGl1eGlhbi13b3JsZC91cGRhdGUvdjEiLCJjaGFubmVsIjoibWFjb3MtdGVzdCIsIm1hbmlmZXN0Ijp7Im1hY29zIjp7InZlcnNpb24iOiIwLjEzLjAiLCJub3RlcyI6IuWul+mXqOWTgee6p+aMieWunuaOp+eWhuWfn+OAgemXqOS6uuaImOWKm+WSjOWdkOmVh+Wig+eVjOivhOWumuOAguaWsOWinuWPr+W8gOaLk+S4juaOpeeuoeeahOaNrueCue+8jOmVv+iAgeiuruS6i+WSjOiQpemAoOWPuOmHh+eUqOWkmuWIl+WNoeeJh++8jOS7o+euoeW8gOWQr+WQjueos+WumuW4uOS6ruOAguabtOaWsOS/neeVmeW3suacieinkuiJsuOAgeWul+S6p+S4juW7uuiuvuadg+mZkOOAgiIsImRvd25sb2FkX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvZG93bmxvYWQvbWFjb3MtdGVzdC12MC4xMy4wL3hpdXhpYW4td29ybGQtbWFjb3MtdjAuMTMuMC56aXAiLCJzaGEyNTYiOiIzODA0MTg5YWI4ZDg4ZmI3Nzc0NWY2YjNiOTYxOTk1NzViMDdmMTMwODFkOTJiZmIxOTM5OGY0NGI2NjJkYTZlIiwic2l6ZSI6NjE1MTM1NTcsInNhdmVfdmVyc2lvbiI6NDF9fX0=",
-    "signature": "W38WrGTIPIiurdNabTVfLIgZfNj3/OqPIrMVfJx04tbR8HTSB3hYnDSsTJeF7cixWeW0d2WviInfC5xveh+GZcbdkMwrNcT6NoSMzxFwkhPNGq8xPTqxEotquCRftKqhZpIUFzdNNL3rRCqnN4ZOBXzl9CH/GLjBmxqP0N+L3LT7h6bdLKcEOpheyTCvq7/F1zFBUKSuQBXpUhZ0yUCiuz/35a/afJyXJhx4pKpD0W1q8Y8MG8/t5+ZiGF5aEj8RFtc5EeRPiPqAALXoLQ4pOUCrq2WxjJTBlfYgNsbdAUaH7Tkv6gA6cJLHNKHffcSViYH/d5cLb7J1+vodcU7UXK39JPWb6bvLI1cvBwA/plV71O8IRZ6+QHVtDxe1sexGDXBlXx46FiWoao8jVlI0ehJphL1Ahl18uoyynGqqPKnz4eTi8kLG53ys8Ff2wPLwP8aYA3J1vU4xqxTaMEJNkqqXb0UTRBN2tQw73Dt50f/m0H/Ra3toCHWEsSNN9f4D"
+    "payload": "eyJjb250ZXh0IjoieGl1eGlhbi13b3JsZC91cGRhdGUvdjEiLCJjaGFubmVsIjoibWFjb3MtdGVzdCIsIm1hbmlmZXN0Ijp7Im1hY29zIjp7InZlcnNpb24iOiIwLjE0LjAiLCJub3RlcyI6IuaWsOWinuWNgeenjeS4ueiNr+S4juS4ueaWue+8jOiNr+aViOmaj+Wig+eVjOWSjOS4uee6ueWPmOWMluOAguS4gOmUrua4uOWOhuiHquWKqOi4j+afpeOAgemHh+mbhuOAgeWvu+acuue8mOS4juiuv+WMu+OAguerueael+mpv+WPr+S/ruahpe+8jOiNr+i9puaMieWVhui3r+WIsOi0p+OAguabtOaWsOS/neeVmeinkuiJsuS4juWOn+aciei/m+W6puOAgiIsImRvd25sb2FkX3VybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9maW5kd2luZGh1YW5nL3hpdXhpYW4td29ybGQvcmVsZWFzZXMvZG93bmxvYWQvbWFjb3MtdGVzdC12MC4xNC4wL3hpdXhpYW4td29ybGQtbWFjb3MtdjAuMTQuMC56aXAiLCJzaGEyNTYiOiIwYzgyYWQ0NDc1YjllYmUzZjk4ZjFjMzlmNWExYzZmN2IzYTk0YzRmZTc4MDJjMTZkYjI4ZDljZDVkY2MzNzU4Iiwic2l6ZSI6NjE1NDM3NTksInNhdmVfdmVyc2lvbiI6NDN9fX0=",
+    "signature": "Lvakkqecx18RqZ36zYjH+h6WX6/kUn58VUQhigHsgSlM4TzZqffd8kXGfLr2HASYTwWkiUCeyut/OVx3Tt234UIodtaoCi69px8YY2yHz6Ra99ozptFfv9QkgoRzH+kTnRR9fUwd5s5Vud0t/CtfasXBg6z7P2gGEH3c6ip8pcDZ9HmRfmtCcG7r1WT+V/PW8QDJxOokwMWFr6odMpUlaPNx4IpHiYQP1kvqexmQd8/b/PnA3cVs+TlcOEKNtXmaD/2+HEpKDQLMaRqmuVEVnrsiZv+YkSUsBJReyo95kyK3xZ8sVucnpynue+5bMqYkp36vx3gNvsrDKxK1oHWadCgnMilJXJ87brk90tRkICtOUQNnx6QZ0NhB3W/OlyPXSU1m17dwNQJd4ePEGKMOaiM09I+px/AbGhCxHbARkes0mvLIMwyp9MYnCUxXwlwx9hm7M87h+VXfs0itYN5o9LrbasAe/X2A72N2yI4dTThTjMwDEwOoWD9S/d5gL64N"
   }
 }
